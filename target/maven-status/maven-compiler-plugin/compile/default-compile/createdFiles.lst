@@ -1,0 +1,9 @@
+META-INF\panache-archive.marker
+org\acme\dto\rest\ProdutoResponseDTO.class
+org\acme\mapper\ProdutoMapper.class
+org\acme\service\ProdutoService.class
+org\acme\dto\filter\ProdutoFilterDTO.class
+org\acme\entity\Produto.class
+org\acme\dto\rest\ProdutoRequestDTO.class
+org\acme\mapper\ProdutoMapperImpl.class
+org\acme\resource\ProdutoResource.class
